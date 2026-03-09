@@ -1,16 +1,20 @@
-## Hi there 👋
+## Software Engineer since 2022
 
-<!--
-**hugobelgeois/hugobelgeois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently working in Odoo
+- Homebrewing DnD, Climbing and Video Games
+- I don't use Arch btw
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="HugoFrançois | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+[<img align="left" alt="Hugo F | Stack Overflow" width="22px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />][stack]
+
+[linkedin]: https://www.linkedin.com/in/hugofrançois
+[stack]: https://stackoverflow.com/users/17664450/hugo-fr
+</br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hugobelgeois/hugobelgeois/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hugobelgeois/hugobelgeois/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img alt="github-snake" src="https://github.com/hugobelgeois/hugobelgeois/blob/output/github-contribution-grid-snake.svg" />
+</picture>
