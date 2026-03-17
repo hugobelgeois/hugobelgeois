@@ -1,7 +1,7 @@
 ## Software Engineer since 2022
 
 - Currently working in Odoo
-- Homebrewing DnD, Climbing and Video Games
+- Homebrewing TTRPG, Climbing and Video Games
 - I don't use Arch btw
 
 ---
